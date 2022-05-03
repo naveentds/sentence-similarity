@@ -50,9 +50,9 @@ We used pretrained models which can be downloaded here:
 
 ## Results
 
-Our model achieves the following performance on :
+BioSentVec model achieves the following performance on :
 
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+### [AI-Driven Clinical Decision Support: Enhancing Disease Diagnosis Exploiting Patients Similarity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676651)
 
 | Model         | BIOSSES  | MayoSSRS |  UMNRS similarity|
 | :-------------|---------:| --------:|  ---------------:|
