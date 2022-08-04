@@ -17,6 +17,11 @@ $ git clone https://github.com/epfml/sent2vec
 $ pip install .
 
 $ pip install --user -U nltk
+
+$ pip install absl-py
+
+$ pip install tensorflow
+$ pip install tensorflow-hub
 ```
 
 Test data sets are located at sentence-similarity/test_data. The pretrained model BioSentVec_PubMed_MIMICIII-bigram_d700.bin can be placed at sentence-similarity/test_data
