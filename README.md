@@ -59,10 +59,11 @@ BioSentVec model achieves the following performance on :
 
 ### [AI-Driven Clinical Decision Support: Enhancing Disease Diagnosis Exploiting Patients Similarity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676651)
 
-| Model         | BIOSSES  | MayoSSRS |  UMNRS similarity|
-| :-------------|---------:| --------:|  ---------------:|
-| BioSentVec    |  0.557   |  0.251   |      0.234       |
-| Levenshtein   |  0.312   |  0.104   |      0.128       |
+| Model                        | BIOSSES  | MayoSSRS |  UMNRS similarity|
+| :----------------------------|---------:| --------:|  ---------------:|
+| BioSentVec                   |  0.557   |  0.251   |      0.234       |
+| Levenshtein                  |  0.312   |  0.104   |      0.128       |
+| Universal Sentence Encoder   |  0.370   |  0.323   |      0.319       |
 
 
 ## References
